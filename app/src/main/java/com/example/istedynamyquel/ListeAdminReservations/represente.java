@@ -14,7 +14,7 @@ public class represente {
 
     public represente(String nom_de_loca,String nom_loca,String prenom_loca,String date_rese,String date_fin_rese, String photoloca) {
         this.nom_de_loca = nom_de_loca;
-        this.nom_de_loca=nom_de_loca;
+        this.nom_loca=nom_loca;
         this.prenom_loca=prenom_loca;
         this.date_rese = date_rese;
         this.date_fin_rese=date_fin_rese;

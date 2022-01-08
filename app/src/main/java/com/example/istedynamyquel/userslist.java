@@ -22,8 +22,11 @@ public class userslist extends AppCompatActivity {
 
         List<HighTechModel2> highTechItemList2 = new ArrayList<>();
         highTechItemList2.add(new HighTechModel2("Slim","Messaoudi","0554664213","profil"));
+        highTechItemList2.add(new HighTechModel2("Slim","Messaoudi","0554664213","profil"));
+        highTechItemList2.add(new HighTechModel2("Slim","Messaoudi","0554664213","profil"));
 
-        ListView UsersListView = findViewById(R.id.reservations);
+
+        ListView UsersListView = findViewById(R.id.listofusers);
         UsersListView.setAdapter(new HighTechItemAdapter2(this,highTechItemList2));
     }
 }

@@ -1,6 +1,10 @@
 package com.example.istedynamyquel.models2;
 
 public class HighTechModel2 {
+    private String name_user;
+    private String prenom_user;
+    private String numero_user;
+    private String mnemonic2;
 
     public HighTechModel2(String name_user,String prenom_user,String numero_user, String mnemonic2) {
         this.name_user = name_user;
@@ -27,7 +31,6 @@ public class HighTechModel2 {
         return mnemonic2;
     }
 
-    private String name_user,prenom_user,numero_user;
-    private String mnemonic2;
+
 
 }
