@@ -5,23 +5,42 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.22395833333333334" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/drawable/accepter.xml" value="0.26974358974358975" />
         <entry key="app/src/main/res/drawable/apropos_navbar.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/back_img.xml" value="0.11614583333333334" />
         <entry key="app/src/main/res/drawable/back_search_bar.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/backdeletebutton.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/backpictureusers.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/card_backusers.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/card_users.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/cardback.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/drawable/cardusers.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/home_navbar.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.11614583333333334" />
         <entry key="app/src/main/res/drawable/loginbleute.xml" value="0.27395833333333336" />
         <entry key="app/src/main/res/drawable/loginshape.xml" value="0.27395833333333336" />
+        <entry key="app/src/main/res/drawable/refuser.xml" value="0.26974358974358975" />
         <entry key="app/src/main/res/drawable/reservation_nav_bar.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/activity_add_vehicule.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_admin_reservation.xml" value="0.12537993920972645" />
+        <entry key="app/src/main/res/layout/activity_card_users_list.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_first_page.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_inscription.xml" value="0.11367753623188406" />
         <entry key="app/src/main/res/layout/activity_login_admin.xml" value="0.29862728625280544" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_principal.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.10157041540020263" />
+        <entry key="app/src/main/res/layout/activity_reservationlist.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_userslist.xml" value="0.10182370820668693" />
+        <entry key="app/src/main/res/layout/adapter_item.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/adapter_item2.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/adapter_reservation.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/adapter_reservationn.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/card_userslist.xml" value="0.1" />
         <entry key="app/src/main/res/layout/card_view.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/down.xml" value="0.10157041540020263" />
+        <entry key="app/src/main/res/layout/users.xml" value="0.165" />
       </map>
     </option>
   </component>

@@ -1,4 +1,4 @@
-package com.example.istedynamyquel;
+package com.example.istedynamyquel.ListeDynamique1;
 
 public class card_model {
     public card_model(String nom, String permisRequis ,String description,  int publication) {
